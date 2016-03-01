@@ -1,6 +1,4 @@
-// Create your variable here, name it `insects`
-
-
+var insects;// Create your variable here, name it `insects`
 // ##########################################################
 // START DO NOT CHANGE ZONE
 // ##########################################################
